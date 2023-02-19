@@ -1,13 +1,13 @@
 # Móveis
 
-###Quarto
+### Quarto
 Cama
 Guarda-Roupa
 Escrivaninha
-###Sala de Estar
+### Sala de Estar
 Sofá
 Raque
 Mesa de Centro
-###Sala de Jantar
+### Sala de Jantar
 Mesa
 Cadeiras
